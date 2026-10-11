@@ -15,4 +15,3 @@ TECHNOLOGIES
 4.Python-docx
 5.Scikit-learn 
 
-HOW TO RUN 
